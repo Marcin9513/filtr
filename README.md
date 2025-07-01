@@ -61,3 +61,10 @@ Projekt przedstawia narzędzie do zaawansowanego filtrowania danych w programie 
 Ten plik Excel został opracowany przeze mnie jako uniwersalne, elastyczne narzędzie do zaawansowanego filtrowania danych, szczególnie przydatne dla analityków, specjalistów ds. raportowania oraz każdego, kto regularnie pracuje z dużymi zestawami danych w Excelu. Projekt umożliwia filtrowanie danych po wielu kolumnach jednocześnie, z zastosowaniem złożonych warunków logicznych, dzięki czemu pozwala znacząco skrócić czas analizy i zwiększyć precyzję pracy.
 Zaprojektowany interfejs jest intuicyjny – użytkownik wkleja swoją tabelę, definiuje warunki filtrów i jednym kliknięciem otrzymuje przefiltrowany wynik. Całość została zautomatyzowana z wykorzystaniem języka VBA, dzięki czemu użytkownik nie musi znać kodu, aby korzystać z funkcjonalności.
 Ten projekt to część mojego portfolio, w którym prezentuję narzędzia ułatwiające codzienną pracę z danymi. Jeśli chcesz zaimplementować podobne rozwiązanie w swojej organizacji lub potrzebujesz wersji dostosowanej do konkretnego procesu.
+
+![image](https://github.com/user-attachments/assets/9f7de2b4-fbcd-464a-8906-e3f222aebb39)
+![image](https://github.com/user-attachments/assets/c08e07a0-19fd-451e-9a19-818bfb2cdceb)
+![image](https://github.com/user-attachments/assets/54835eea-19eb-497a-95b4-3d5297464061)
+
+
+
