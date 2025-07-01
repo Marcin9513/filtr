@@ -1,4 +1,4 @@
-# Zaawansowany filtr danych w Excelu (Excel Data Filter Tool)
+# Zaawansowany filtr danych w Excelu
 
 ## Opis projektu
 
