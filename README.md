@@ -1,4 +1,4 @@
-# Zaawansowany filtr danych w Excelu
+# Zaawansowany filtr danych w Excelu 
 
 ## Opis projektu
 
